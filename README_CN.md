@@ -1,6 +1,6 @@
 # HMLLM 
 <h5 align="center">
-<a href="https://github.com/suay1113/HMLLM/tree/main/README_CN.md"><img src="https://img.shields.io/badge/English-readme" alt="English readme"></a>
+<a href="https://github.com/suay1113/HMLLM/tree/main/README.md"><img src="https://img.shields.io/badge/English-readme" alt="English readme"></a>
 </h5>
 
 
